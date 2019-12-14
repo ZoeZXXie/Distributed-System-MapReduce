@@ -1,5 +1,5 @@
 # 1
-Create two folders in the cs-425-mp4 root directory titled
+Create two folders in the root directory titled
 - clientFiles
 - serverFiles
 
